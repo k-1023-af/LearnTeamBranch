@@ -5,10 +5,14 @@
 
 int main()
 {
+	int enemyCount = 5;
     std::cout << "Hello World!\n";
 	std::cout << "Add new line in main branch.\n";
 	std::cout << "プレイヤーがジャンプしました。\n";
 	std::cout << "敵が出現しました。\n";
+	std::cout << "Add new line in feature branch.\n";
+
+	std::cout << "プレイ屋の表示テスト\n";
 	return 0;
 }
 
