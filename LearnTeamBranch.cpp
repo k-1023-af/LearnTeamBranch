@@ -7,6 +7,9 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "Add new line in main branch.\n";
+	std::cout << "プレイヤーがジャンプしました。\n";
+	std::cout << "敵が出現しました。\n";
+	return 0;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
