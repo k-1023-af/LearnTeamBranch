@@ -9,6 +9,7 @@ int main()
 	std::cout << "Add new line in main branch.\n";
 	std::cout << "プレイヤーがジャンプしました。\n";
 	std::cout << "敵が出現しました。\n";
+	std::cout << "Add new line in feature branch.\n";
 	return 0;
 }
 
