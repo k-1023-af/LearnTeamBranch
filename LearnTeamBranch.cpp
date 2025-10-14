@@ -9,7 +9,6 @@ int main()
 	int playerHP = 100;
 
     std::cout << "Hello World!\n";
-	std::cout << "Add new line in main branch.\n";
 	std::cout << "プレイヤーがジャンプしました。\n";
 	std::cout << "敵が出現しました。\n";
 	std::cout << "Add new line in feature branch.\n";
