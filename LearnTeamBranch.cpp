@@ -15,6 +15,7 @@ int main()
 	std::cout << "Add new line in feature branch.\n";
 
 	std::cout << "enemyCount added";
+	std::cout << "playerHP added";
 	return 0;
 }
 
