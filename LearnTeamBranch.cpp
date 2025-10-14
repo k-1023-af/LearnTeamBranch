@@ -5,6 +5,7 @@
 
 int main()
 {
+	int enemyCount = 5;
     std::cout << "Hello World!\n";
 	std::cout << "Add new line in main branch.\n";
 	std::cout << "プレイヤーがジャンプしました。\n";
